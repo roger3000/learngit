@@ -1,3 +1,1 @@
-git is god
-git is light 
-git can change the life!
+this file is used to learning git
